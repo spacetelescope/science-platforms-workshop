@@ -36,4 +36,4 @@ Examples of topic areas likely to be covered in this workshop include:
 - Community contributions: What approach are different centers taking for incorporating community contributions? This includes contributions to core technologies used in science platforms, pipeline software for batch processing of data, community contributed virtual machines/containers and more...
 
 ## Questions?
-Feel free to [open an issue](https://github.com/spacetelescope/science-platforms-workshop/issues/new) here on the workshop GitHub repository or email Arfon Smith on arfon@stsci.edu
+Feel free to [open an issue](https://github.com/spacetelescope/science-platforms-workshop/issues/new) here on the workshop GitHub repository or email LOC lead Arfon Smith on arfon@stsci.edu
