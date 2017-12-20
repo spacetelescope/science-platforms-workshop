@@ -19,7 +19,11 @@ Registration will open early in 2018.
 Arfon Smith (STScI), Wil O'Mullane (LSST), Adam Bolton (NOAO)
 
 ## Format
-The goal here is to have a collaboration workshop where engineers share their experiences and work together on technical solutions to common challenges. The format will be to have short lightning talks each morning aimed at a particular topic area (see below) and for the remainder of the day to be spent in smaller groups discussing implementation ideas and prototyping solutions. Each day will close with different teams reporting back on progress they have made that day.
+The goal is to have a collaboration workshop where:
+- Engineers share their experiences and work together on technical solutions to common challenges and...
+- Astronomers share common use cases/data analysis workflows that can be used to ensure we're building tools of value to the scientific community.
+
+The format will be to have short lightning talks each morning aimed at a particular topic area (see below) and for the remainder of the day to be spent in smaller groups discussing implementation ideas and prototyping solutions. Each day will close with different teams reporting back on progress they have made that day.
 
 Examples of topic areas likely to be covered in this workshop include:
 
