@@ -12,7 +12,7 @@ Building upon the [strong interest](https://www.youtube.com/watch?v=eEBbqyagNUI&
 ## Registration
 Registration will be ~$100. This charge will cover catering costs for the three days. There may be a small amount of travel support available upon request.
 
-Registration will open early in 2018.
+Registration will open early in 2018 and will be on a first-come first-served basis.
 
 ## Organizers
 
