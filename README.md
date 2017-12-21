@@ -1,7 +1,7 @@
-## Science Platforms Workshop
+# Science Platforms/Server-Side Analytics Workshop
 
 ### What
-Building upon the [strong interest](https://www.youtube.com/watch?v=eEBbqyagNUI&feature=youtu.be&t=8h4m40s) of the community at ADASS 2017 in 'Science Platforms', STScI is hosting 2.5 day meeting with a focus on sharing community approaches to science platforms, documenting common data analysis patterns/workflows, identifying challenges different implementers are facing and prototyping solutions to address these challenges.
+Building upon the [strong interest](https://www.youtube.com/watch?v=eEBbqyagNUI&feature=youtu.be&t=8h4m40s) of the community at ADASS 2017 in 'Science Platforms/Server-Side Analytics', STScI is hosting 2.5 day meeting with a focus on sharing community approaches to science platforms, documenting common data analysis patterns/workflows, identifying challenges different implementers are facing and prototyping solutions to address these challenges.
 
 ## When
 26--28 February 2018
