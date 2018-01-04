@@ -16,7 +16,7 @@ Registration will open early in 2018 and will be on a first-come first-served ba
 
 ## Organizers
 
-Arfon Smith (STScI), Wil O'Mullane (LSST), Adam Bolton (NOAO), Xiuqin Wu/Gregory Dubois-Felsmann (IPAC)
+Arfon Smith (STScI), Wil O'Mullane (LSST), Adam Bolton (NOAO), Gregory Dubois-Felsmann (IPAC)
 
 ## Format
 The goal is to have a collaboration workshop where:
