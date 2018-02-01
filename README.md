@@ -10,9 +10,9 @@ Building upon the [strong interest](https://www.youtube.com/watch?v=eEBbqyagNUI&
 [STScI](http://www.stsci.edu) in Baltimore, MD.
 
 ## Registration
-Registration will be ~$100. This charge will cover catering costs for the three days. There may be a small amount of travel support available upon request.
+Registration is $140. This charge will cover catering costs for the three days. There may be a small amount of travel support available upon request.
 
-Registration will open early in 2018 and will be on a first-come first-served basis.
+The conference registration site is here: https://www.eiseverywhere.com/ereg/index.php?eventid=310200
 
 ## Organizers
 
