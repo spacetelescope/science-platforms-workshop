@@ -20,7 +20,7 @@ Arfon Smith (STScI), Wil O'Mullane (LSST), Adam Bolton (NOAO), Gregory Dubois-Fe
 
 ## Agenda
 
-#### Day 1 (26 February, 2018)
+### Day 1 (26 February, 2018)
 
 The goal of the first day is for all of the science platform implementers to share what they are building, discuss the sorts of use cases they’re designing for (e.g. survey query services, batch processing, hosted data analysis environment for small amounts of data). Each group will be also asked to give a brief overview of the technologies they’re using, major technical challenges they have solve and are yet to overcome. Following lunch, the attendees will then be given ~1 hour to try out the different implementations and then break out into engineering-focussed sessions (topics to be decided during lunch on first day) for the rest of the afternoon.
 
@@ -44,7 +44,7 @@ The goal of the first day is for all of the science platform implementers to sha
 - Core technologies being used
 - Key problems they’ve solved, key problems they still have
 
-#### Day 2 (27 February, 2018)
+### Day 2 (27 February, 2018)
 
 The second day is about focussing discussion on a number of key areas, with talks from a small number of individuals designed to stimulate discussion and then significant time devoted to working on technical solutions later in the day. For each 30 minute session the plan is to have a mix of presented content with ample time for questions.
 
@@ -94,7 +94,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 | 15:30 — 16:30 | Breakout engineering sessions (iii) |
 | 16:30 — 17:00 | Report back on progress during breakout sessions. |
 
-#### Day 3 (28 February, 2018)
+### Day 3 (28 February, 2018)
 
 | Time | Description |
 |------|------|
