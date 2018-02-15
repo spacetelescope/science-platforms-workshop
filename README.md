@@ -37,7 +37,7 @@ The goal of the first day is for all of the science platform implementers to sha
 | 15:00 — 15:30 | Coffee/snacks |
 | 15:30 — 17:00 | Breakout engineering session (ii) (three separate rooms) |
 
-**Platform overview** talks given by SciServer, NOAO Datalab, NDS, LSST, STScI, WholeTale (speakers to be identified). For each ‘platform overview’ talk we ask each implementer to cover the following points:
+**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik). For each ‘platform overview’ talk we ask each implementer to cover the following points:
 
 - A broad overview of what they’re building
 - Who they’re building for (i.e. common use cases they anticipate supporting)
@@ -51,7 +51,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 | Time | Description |
 |------|------|
 | 08:30 — 09:00 | Coffee/light breakfast |
-| 09:00 — 10:00 | **Interoperability:** Short talks & discussion about platform interoperability. |
+| 09:00 — 09:45 | **Interoperability & User Experience:** Short talks & discussion about interoperability and user experience |
 
 **Interoperability suggested speakers/topics:**
 
@@ -59,17 +59,20 @@ The second day is about focussing discussion on a number of key areas, with talk
 - Authorization/Authentication - Someone from LSST?
 - VODML - Gerard Lemson
 - Shared containers - Arfon Smith
+- Mike Fitzpatrick (NOAO)
 
 | Time | Description |
 |-----|-----|
-| 10:00 — 10:30 | **Managing users:**( Quotas, collaboration, training, user support| 
+| 09:45 — 10:15 | **Managing users:**( Quotas, collaboration, training, user support| 
 
-**Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users.
+**Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users).
+
+- Robert Nikutta (NOAO)
 
 | Time | Description |
 |------|------|
-| 10:30 — 11:00 | Coffee |
-| 11:00 — 11:30 | Storage, file systems, data access: Short talks & discussion about these topics|
+| 10:15 — 10:45 | Coffee |
+| 10:45 — 11:30 | Storage, file systems, data access: Short talks & discussion about these topics|
 
 **Storage, file systems, data access suggested speakers & topics:**
 
