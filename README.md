@@ -71,6 +71,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 - Robert Nikutta (NOAO)
 - SciServer's resource access control management solution - Jai Won Kim (SciServer)
+- National Data Service?
 
 | Time | Description |
 |------|------|
@@ -118,7 +119,6 @@ The second day is about focussing discussion on a number of key areas, with talk
 **Possible speakers/topics**
 
 - Hosting science data and software - Gerard Lemson (SciServer)
-
 
 ## Format
 The goal is to have a collaboration workshop where:
