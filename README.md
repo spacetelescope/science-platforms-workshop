@@ -92,7 +92,8 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 **Suggested speakers & topics:**
 - LSST’s pipeline - Robert Lupton
-- Erik Tollerud
+- objcat - Erik Tollerud
+- Batch processing with LSST – Frossie Economou / Gregory Dubois-Felsmann
 - Batch processing in SciServer - Manuchehr Taghizadeh Popp (SciServer)
 
 | Time | Description |
