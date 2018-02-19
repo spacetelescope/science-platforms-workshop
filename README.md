@@ -37,7 +37,7 @@ The goal of the first day is for all of the science platform implementers to sha
 | 15:00 — 15:30 | Coffee/snacks |
 | 15:30 — 17:00 | Breakout engineering session (ii) (three separate rooms) |
 
-**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik). For each ‘platform overview’ talk we ask each implementer to cover the following points:
+**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik), DEC (Matias Carrasco-Kind). For each ‘platform overview’ talk we ask each implementer to cover the following points:
 
 - A broad overview of what they’re building
 - Who they’re building for (i.e. common use cases they anticipate supporting)
@@ -56,8 +56,10 @@ The second day is about focussing discussion on a number of key areas, with talk
 **Interoperability suggested speakers/topics:**
 
 - IVOA vs client libraries - Tom Donaldson & Brian Major
-- Authorization/Authentication - Someone from LSST?
+- Authorization/Authentication - Gregory Dubois-Felsmann/Frossie Economou?
 - VODML - Gerard Lemson
+- Authetication & Authorization in SciServer - Speaker TBD (SciServer)
+- SciScript: client libraries for accessing SciServer REST APIs - Manuchehr Taghizadeh Popp (SciServer)
 - Shared containers - Arfon Smith
 - Mike Fitzpatrick (NOAO)
 
@@ -68,6 +70,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 **Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users).
 
 - Robert Nikutta (NOAO)
+- SciServer's resource access control management solution - Jai Won Kim (SciServer)
 
 | Time | Description |
 |------|------|
@@ -78,7 +81,9 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 - LSST's Butler - Jim Bosch
 - Building user-workspaces on AWS - Christian Mesh (STScI)
-- SciServer/National Data Service/someone else to talk about user workspaces
+- National Data Service?
+- SciServer Compute as a containerized solution - Dmitry Medvedev (SciServer)
+- Strategy and infrastructure for user file storage in SciServer - Joseph Booker (SciServer)
 
 | Time | Description |
 |------|------|
@@ -87,6 +92,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 **Suggested speakers & topics:**
 - LSST’s pipeline - Robert Lupton
 - Erik Tollerud
+- Batch processing in SciServer - Manuchehr Taghizadeh Popp (SciServer)
 
 | Time | Description |
 |------|------|
@@ -108,6 +114,10 @@ The second day is about focussing discussion on a number of key areas, with talk
 | 11:00 — 11:30 | Community contributions: Role of open source and wider community collaboration |
 | 11:30 — 12:00 | Looking to the future: What’s next? Decadal, SnowPAC, future funding opportunities |
 | 12:00 | Close |
+
+**Possible speakers/topics**
+
+- Hosting science data and software - Gerard Lemson (SciServer)
 
 
 ## Format
