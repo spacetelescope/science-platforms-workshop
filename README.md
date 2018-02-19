@@ -37,7 +37,7 @@ The goal of the first day is for all of the science platform implementers to sha
 | 15:00 — 15:30 | Coffee/snacks |
 | 15:30 — 17:00 | Breakout engineering session (ii) (three separate rooms) |
 
-**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik), DEC (Matias Carrasco-Kind). For each ‘platform overview’ talk we ask each implementer to cover the following points:
+**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik), DES (Matias Carrasco-Kind). For each ‘platform overview’ talk we ask each implementer to cover the following points:
 
 - A broad overview of what they’re building
 - Who they’re building for (i.e. common use cases they anticipate supporting)
