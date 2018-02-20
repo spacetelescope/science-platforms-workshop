@@ -65,7 +65,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 | Time | Description |
 |-----|-----|
-| 09:45 — 10:15 | **Managing users:** ( Quotas, collaboration, training, user support| 
+| 09:45 — 10:15 | **Managing users:** (Quotas, collaboration, training, user support| 
 
 **Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users).
 
@@ -111,7 +111,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 |------|------|
 | 08:30 — 09:00 | Coffee/light breakfast |
 | 09:00 — 10:00 | Report out on progress made on key topic areas over last two days |
-| 10:00 — 10:30 | Sustainability, long term support |
+| 10:00 — 10:30 | Sustainability, long term support, cost models |
 | 10:30 — 11:00 | Coffee/snacks |
 | 11:00 — 11:30 | Community contributions: Role of open source and wider community collaboration |
 | 11:30 — 12:00 | Looking to the future: What’s next? Decadal, SnowPAC, future funding opportunities |
