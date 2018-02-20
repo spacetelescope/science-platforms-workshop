@@ -65,7 +65,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 | Time | Description |
 |-----|-----|
-| 09:45 — 10:15 | **Managing users:**( Quotas, collaboration, training, user support| 
+| 09:45 — 10:15 | **Managing users:** ( Quotas, collaboration, training, user support| 
 
 **Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users).
 
@@ -76,7 +76,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 | Time | Description |
 |------|------|
 | 10:15 — 10:45 | Coffee |
-| 10:45 — 11:30 | Storage, file systems, data access: Short talks & discussion about these topics|
+| 10:45 — 11:30 | **Storage, file systems, data access:** Short talks & discussion about these topics|
 
 **Storage, file systems, data access suggested speakers & topics:**
 
@@ -88,7 +88,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 
 | Time | Description |
 |------|------|
-| 11:30 — 12:00 | Data models, pipelines, ORMs: How to represent scientific analyses in science platforms |
+| 11:30 — 12:00 | **Data models, pipelines, ORMs:** How to represent scientific analyses in science platforms |
 
 **Suggested speakers & topics:**
 - LSST’s pipeline - Robert Lupton
