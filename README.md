@@ -37,7 +37,7 @@ The goal of the first day is for all of the science platform implementers to sha
 | 15:00 — 15:30 | Coffee/snacks |
 | 15:30 — 17:00 | Breakout engineering session (ii) (three separate rooms) |
 
-**Platform overview** talks given by SciServer (Mike Rippen/Gerard Lemson), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik), DES (Matias Carrasco-Kind). For each ‘platform overview’ talk we ask each implementer to cover the following points:
+**Platform overview** talks given by SciServer (Mike Rippin), NOAO Datalab (Knut Olsen), NDS (Kenton Guadron McHenry), LSST (Frossie Economou), STScI (Christian Mesh), WholeTale (Kacper Kowalik), DES (Matias Carrasco-Kind). For each ‘platform overview’ talk we ask each implementer to cover the following points:
 
 - A broad overview of what they’re building
 - Who they’re building for (i.e. common use cases they anticipate supporting)
@@ -58,7 +58,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 - IVOA vs client libraries - Tom Donaldson & Brian Major
 - Authorization/Authentication - Gregory Dubois-Felsmann/Frossie Economou?
 - VODML - Gerard Lemson
-- Authetication & Authorization in SciServer - Speaker TBD (SciServer)
+- Authetication in SciServer - Dmitry Medvedev (SciServer)
 - SciScript: client libraries for accessing SciServer REST APIs - Manuchehr Taghizadeh Popp (SciServer)
 - Shared containers - Arfon Smith
 - Mike Fitzpatrick (NOAO)
@@ -70,7 +70,7 @@ The second day is about focussing discussion on a number of key areas, with talk
 **Managing users suggested speakers:** Someone from SciServer, Datalab, NDS? (basically anyone _with_ users).
 
 - Robert Nikutta (NOAO)
-- SciServer's resource access control management solution - Jai Won Kim (SciServer)
+- SciServer's resource access control management solution - Gerard Lemson (SciServer)
 - National Data Service?
 
 | Time | Description |
