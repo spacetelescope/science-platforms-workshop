@@ -9,6 +9,12 @@ Building upon the [strong interest](https://www.youtube.com/watch?v=eEBbqyagNUI&
 ## Where
 [STScI](http://www.stsci.edu) in Baltimore, MD.
 
+## Remote participation
+
+We will have WebEx sessions available for remote participants to listen in, 'full' participation of remote people is not planned however (i.e. don't expect to be able to ask questions during talks).
+
+See [remote instructions](remote.md) for more information.
+
 ## Registration
 Registration is $140. This charge will cover catering costs for the three days. There may be a small amount of travel support available upon request.
 
