@@ -8,7 +8,7 @@ Auditorium, 2018-02-26, 15:30-16:30.
 
 These are things that we just "want to do".
 
-* (Specviz)[https://github.com/spacetelescope/specviz] → Jupyter?
+* [Specviz](https://github.com/spacetelescope/specviz) → Jupyter?
   - STScI is roadmapping this
 * Look at many spectra
   - STScI is working on mosviz
@@ -19,7 +19,7 @@ These are things that we just "want to do".
   - Ask JHU/SciServer whether a Marvin demonstration might be possible.
   - Cubeviz for JWST is being developed.
   - Some cubes may be more generic than others.
-* Stellar parameters, *e.g.* (The Cannon)[https://arxiv.org/abs/1501.07604].
+* Stellar parameters, *e.g.* [The Cannon](https://arxiv.org/abs/1501.07604).
 
 ## Priorities
 
@@ -35,7 +35,7 @@ What things should we focus on?
     - This is potentially "creepy", but easy automation is generally a good thing.
 * How different do the tools need to be as you move away from UVOIR spectra, in both directions?
 * Work with lab spectra as well as on-sky.
-* Simulate spectroscopic surveys, *e.g.* (DESI)[https://github.com/desihub/two_percent_DESI].
+* Simulate spectroscopic surveys, *e.g.* [DESI](https://github.com/desihub/two_percent_DESI).
   - Use the platform as a testbed.
 * Follow up for TESS, other surveys.
 
