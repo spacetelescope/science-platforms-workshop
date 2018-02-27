@@ -30,6 +30,7 @@
   - Parallelize downloads over HTTP
   - Wget/curl will restart downloads
   - GridFTP
+  - What is the preferred method of uploading?
 
 ## Technologies
 
