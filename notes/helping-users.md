@@ -29,7 +29,7 @@
 * A User Forum is a good idea.
 * A Ticket System is a good idea.
 * A Triage Point person (or people) with some actual power is a good idea.
-  - Need to have the power to rattle expert's cages to get an answer.
+  - Need to have the power to rattle experts' cages to get an answer.
   - Don't let a question turn into an open-ended research project.
   - Watch out for spam, phishing, etc.
 * Working the help desk should be considered a volunteer activity.
