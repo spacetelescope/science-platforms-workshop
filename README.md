@@ -16,6 +16,7 @@ We will have WebEx sessions available for remote participants to listen in, 'ful
 See [remote instructions](remote.md) for more information.
 
 ## Registration
+
 Registration is $140. This charge will cover catering costs for the three days. There may be a small amount of travel support available upon request.
 
 The conference registration site is here: https://www.eiseverywhere.com/ereg/index.php?eventid=310200
@@ -27,6 +28,10 @@ Arfon Smith (STScI), Wil O'Mullane (LSST), Adam Bolton (NOAO), Gregory Dubois-Fe
 ## Agenda
 
 An up to date agenda is available here: https://docs.google.com/spreadsheets/d/1hTjg-8537Te8eF2_R-VZHxu0dekFWymf3abP4pN4zwY/edit#gid=0
+
+## Photo
+
+![Group Photo](SciencePlatforms-GroupPhoto.jpg)
 
 ## Format
 The goal is to have a collaboration workshop where:
