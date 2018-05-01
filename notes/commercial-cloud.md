@@ -1,7 +1,10 @@
 # Commercial cloud session (2/26/18)
 
 - Pricing models (what’s the deal that STScI have with Amazon?)
-  - Essentially zero cost to STScI
+  - Essentially zero cost to STScI to host a copy of HST public data (for currently active instruments) with the AWS public dataset program (https://registry.opendata.aws/). 
+    - Volume is ~120TB, cost to STScI without participating in public dataset program would be ~$5000/month to host data in S3.
+    - Initial term for data being hosted here ~3 years.
+    - S3 bucket has [requestor pays](https://docs.aws.amazon.com/AmazonS3/latest/dev/RequesterPaysBuckets.html) fearture enabled which means downloading data outside of S3 costs money (to the end user). Data transfer to support computing against the data in AWS (e.g. on EC2) is free.
   - Worth playing these services off against each other?
   - Co-processing of data is much easier if (Amazon/Google/Microsoft) has it all
 - Backups (where, how etc.)
